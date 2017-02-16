@@ -1,4 +1,5 @@
 # hello-world
 Learn to use github
 
-OK, now let's add some words.
+
+This time we don't just add words. We add a file.
